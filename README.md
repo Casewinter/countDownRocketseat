@@ -1,2 +1,2 @@
-# counDownRocketseat
+# CountDown-Rocketseat
 Created with CodeSandbox
